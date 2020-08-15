@@ -1,0 +1,454 @@
+[
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replaces": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replacedBy": {
+      "value": "Q9545",
+      "label": "Tony Blair"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$7E1B105F-80EA-4236-BAB6-FC2BC7A780DF"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replaces": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "replacedBy": {
+      "value": "Q333158",
+      "label": "Donald Dewar"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$9FEF9B4A-AED6-44D8-9719-29EFB83DA421"
+  },
+  {
+    "item": {
+      "value": "Q333158",
+      "label": "Donald Dewar"
+    },
+    "replaces": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333158$1A5F85E2-D6AA-47FC-81ED-EBFEC1F44978"
+  },
+  {
+    "item": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replaces": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replacedBy": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332393$B7562F8A-09B7-4D78-95E7-EBD51DF1DB4D"
+  },
+  {
+    "item": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replaces": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replacedBy": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "start": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q234182$644AF1E7-90B4-4A1E-9369-E4162481C6F9"
+  },
+  {
+    "item": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "replaces": {
+      "value": "Q333158",
+      "label": "Donald Dewar"
+    },
+    "replacedBy": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "start": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1996-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333264$DD8E3BED-4744-4AAA-B119-BFBCC3E8DA0C"
+  },
+  {
+    "item": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replaces": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "replacedBy": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "start": {
+      "value": "1996-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q234182$A2CA0FDF-CF4E-4E18-AF84-01161A0402A6"
+  },
+  {
+    "item": {
+      "value": "Q19831",
+      "label": "Peter Lilley"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19831$4877932A-1B83-425E-8A97-6217A5DE8BDA"
+  },
+  {
+    "item": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "replaces": {
+      "value": "Q19831",
+      "label": "Peter Lilley"
+    },
+    "replacedBy": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "start": {
+      "value": "1997-06-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302486$CB2588D9-5920-403C-AC28-7A76583B86BC"
+  },
+  {
+    "item": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replaces": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "replacedBy": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266064$E465FAE4-4764-4F4C-B302-A98933339A00"
+  },
+  {
+    "item": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "replaces": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replacedBy": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "start": {
+      "value": "2005-05-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333487$42845C76-BB85-4317-9330-6720EBC4F4F2"
+  },
+  {
+    "item": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replaces": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "replacedBy": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332987$d017b4ab-42cd-eba3-acc5-0e5a73364004"
+  },
+  {
+    "item": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "replaces": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replacedBy": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337453$7E76FBFF-A9A6-4CE4-B5F1-184D5C1ADA04"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replaces": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "replacedBy": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "start": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264766$0D8FE536-76FA-4B0E-A499-3236E796D338"
+  },
+  {
+    "item": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "replaces": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replacedBy": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q291057$EB4B5357-CBD5-4DD0-BD83-355B1946EA18"
+  },
+  {
+    "item": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replaces": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "replacedBy": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259106$0DB9F3E7-D1DE-4B82-B20D-F11536C559E4"
+  },
+  {
+    "item": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "replaces": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replacedBy": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "start": {
+      "value": "2011-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q269697$B768D0AF-C941-4039-8240-E15BBC05C9DB"
+  },
+  {
+    "item": {
+      "value": "Q272346",
+      "label": "Stephen Timms"
+    },
+    "replaces": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "replacedBy": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "start": {
+      "value": "2015-06-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272346$36508D14-DC0C-4215-AC96-67982180B13C"
+  },
+  {
+    "item": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "replaces": {
+      "value": "Q272346",
+      "label": "Stephen Timms"
+    },
+    "replacedBy": {
+      "value": "Q258088",
+      "label": "Debbie Abrahams"
+    },
+    "start": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q390690$40d95bfa-4ea1-ab9b-6347-b1848895eefa"
+  },
+  {
+    "item": {
+      "value": "Q258088",
+      "label": "Debbie Abrahams"
+    },
+    "replaces": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q258088$561e595a-4cd3-4e84-aea4-ad9718c10167"
+  }
+]

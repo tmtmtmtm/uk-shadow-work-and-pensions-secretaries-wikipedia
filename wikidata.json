@@ -392,6 +392,29 @@
   },
   {
     "item": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "replaces": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "replacedBy": {
+      "value": "Q272346",
+      "label": "Stephen Timms"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-06-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q574896$00C1B154-CC49-44CF-940C-AEADF3A4F0D9"
+  },
+  {
+    "item": {
       "value": "Q272346",
       "label": "Stephen Timms"
     },
@@ -445,10 +468,56 @@
       "value": "Q390690",
       "label": "Owen Smith"
     },
+    "replacedBy": {
+      "value": "Q19957949",
+      "label": "Margaret Greenwood"
+    },
     "start": {
       "value": "2016-06-27T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2018-03-11T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q258088$561e595a-4cd3-4e84-aea4-ad9718c10167"
+  },
+  {
+    "item": {
+      "value": "Q19957949",
+      "label": "Margaret Greenwood"
+    },
+    "replaces": {
+      "value": "Q258088",
+      "label": "Debbie Abrahams"
+    },
+    "replacedBy": {
+      "value": "Q501926",
+      "label": "Jonathan Reynolds"
+    },
+    "start": {
+      "value": "2018-03-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19957949$880211CC-E132-40DD-A9F5-F2C26D137869"
+  },
+  {
+    "item": {
+      "value": "Q501926",
+      "label": "Jonathan Reynolds"
+    },
+    "replaces": {
+      "value": "Q19957949",
+      "label": "Margaret Greenwood"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q501926$32681AFD-D510-436E-A51D-56B932F467D3"
   }
 ]
